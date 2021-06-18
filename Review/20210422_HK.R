@@ -71,7 +71,6 @@ mpg[2,"trans"] <- "auto(90)"
 mpg[1,"class"] <- "suv"
 head(mpg,2)
 
-
 #08. 결측치(Missing Value) 제거하기.
 df_4 <- data.frame(sex=c("M","F",NA,"M","F"),
                    score=c(5,4,3,4,NA)) ; df_4
