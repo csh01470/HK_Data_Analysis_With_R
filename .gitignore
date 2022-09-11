@@ -1,0 +1,8 @@
+#File
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#Directory
+/Key
